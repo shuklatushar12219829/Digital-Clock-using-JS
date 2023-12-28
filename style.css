@@ -1,0 +1,52 @@
+ 
+   h1{
+        border: 10px solid black;
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color:#163020;
+        font-family: 'Silkscreen', sans-serif;
+        font-size:100px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .container{
+        display: flex;
+        flex-basis: 100px;
+        justify-content: center;
+        background-color: black;
+        padding: 75px 300px 75px 300px;
+        margin-left: 200px;
+        margin-right: 200px;
+        border-radius: 5px;
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+    .first{
+        background: #304D30;
+    }
+    .second{
+        background-color: #B6C4B6;
+    }
+    .third{
+        background-color: #EEF0E5;
+    }
+    .card{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 30px;
+        border-radius: 5px;
+        font-family: 'Silkscreen', sans-serif;
+        font-size: 100px;
+    }
+    p{
+        color: white;
+        margin-top: 50px;   
+        font-size: 100px;
+        padding-left: 0%;
+
+    }
+    .outer{
+        border: 10px solid black;
+        background-color: #88AB8E;
+    }
+
