@@ -1,5 +1,6 @@
 # Digital-Clock-using-JS
 Link for Clock-https://spontaneous-bunny-245d70.netlify.app/
+
 Project Title: Digital Clock with HTML, CSS, and JavaScript
 Project Overview:
 Create a digital clock that displays the current time in a web browser. This project will involve using HTML for the structure, CSS for styling, and JavaScript for real-time updates.
