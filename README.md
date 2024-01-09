@@ -1,4 +1,4 @@
-# Digital-Clock-using-JS
+# Digital-Clock-using-JS(Laptop usage only)
 Link for Clock-https://spontaneous-bunny-245d70.netlify.app/
 
 Project Title: Digital Clock with HTML, CSS, and JavaScript
